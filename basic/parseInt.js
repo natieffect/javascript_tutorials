@@ -13,4 +13,4 @@
 
     const a  = parseInt("11",2);
     //radix  variable says that 11 is in the binary system or BASE 2
-    // this converts the string 11 to an intger 
+    // this converts the string 11 to an intger     
