@@ -1,0 +1,16 @@
+
+// java script can divide up our code to reuable parts called functions
+
+function functionName(){
+        console.log(" thos is print value of function ")
+}
+
+// Global Function
+    //java sctipt scope refers to the visiv=blity of the variables 
+        // variable defined outside of functional  have global scope 
+        // variable defined inside of function have local scope
+            // variables created with (  let and  const) are automatically creaged as global scoper
+             let variableone;
+             const variabletwo = 10;
+
+             
